@@ -1,17 +1,23 @@
 # hello_world
 
-A new Flutter project.
+## 项目名称
 
-## Getting Started
+hello_world
 
-This project is a starting point for a Flutter application.
+## 运行方式
 
-A few resources to get you started if this is your first Flutter project:
+Web 端：
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+flutter run -d chrome
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Android 模拟器：
+
+flutter run -d emulator-5554
+
+## 运行截图
+
+### Web 端
+
+### Android 模拟器
+
+###flutter doctor截图
